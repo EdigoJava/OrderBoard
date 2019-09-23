@@ -1,0 +1,10 @@
+I use Spring Boot and Java 8 for developing.
+
+Project test Coverage is %95 please see test classes.
+
+In main SpringBoot method, I comment out for the initail entities for testing via CommandLineRunnner.
+
+You can re-open these comments if you want entites in DB.
+
+Best Regards,
+Ozan

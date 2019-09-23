@@ -1,0 +1,13 @@
+Return Summary:
+GET
+http://localhost:8082/orders/buy
+
+http://localhost:8082/orders/sell
+
+Register Order:
+POST
+http://localhost:8082/orders/register
+
+Cancel Order:
+DELETE
+http://localhost:8082/orders/cancel/2
